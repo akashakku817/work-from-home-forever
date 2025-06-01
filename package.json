@@ -14,7 +14,7 @@
     "autoprefixer": "^10.4.14"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "cd \"work-from-home-forever (2)/work-from-home-forever\" && react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
